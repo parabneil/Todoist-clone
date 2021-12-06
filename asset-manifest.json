@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Todoist-clone/static/css/main.e03ab059.chunk.css",
+    "main.js": "/Todoist-clone/static/js/main.6c6467ee.chunk.js",
+    "main.js.map": "/Todoist-clone/static/js/main.6c6467ee.chunk.js.map",
+    "runtime-main.js": "/Todoist-clone/static/js/runtime-main.08a0dc0a.js",
+    "runtime-main.js.map": "/Todoist-clone/static/js/runtime-main.08a0dc0a.js.map",
+    "static/css/2.0440f8c5.chunk.css": "/Todoist-clone/static/css/2.0440f8c5.chunk.css",
+    "static/js/2.a85a380e.chunk.js": "/Todoist-clone/static/js/2.a85a380e.chunk.js",
+    "static/js/2.a85a380e.chunk.js.map": "/Todoist-clone/static/js/2.a85a380e.chunk.js.map",
+    "index.html": "/Todoist-clone/index.html",
+    "static/css/2.0440f8c5.chunk.css.map": "/Todoist-clone/static/css/2.0440f8c5.chunk.css.map",
+    "static/css/main.e03ab059.chunk.css.map": "/Todoist-clone/static/css/main.e03ab059.chunk.css.map",
+    "static/js/2.a85a380e.chunk.js.LICENSE.txt": "/Todoist-clone/static/js/2.a85a380e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08a0dc0a.js",
+    "static/css/2.0440f8c5.chunk.css",
+    "static/js/2.a85a380e.chunk.js",
+    "static/css/main.e03ab059.chunk.css",
+    "static/js/main.6c6467ee.chunk.js"
+  ]
+}
