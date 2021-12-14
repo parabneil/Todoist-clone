@@ -1,3 +1,3 @@
 ### Getting Started with Todoist App - Clone
 
-[Todoist App - clone Live Demo](https://github.com/parabneil/Todoist-clone).
+[Todoist App - clone Live Demo](https://parabneil.github.io/Todoist-clone/).
